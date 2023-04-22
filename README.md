@@ -15,10 +15,10 @@
 > brew에 딱히 없어서 curl로 설치 진행
 
 ## 4. zsh 플러그인 추가
-> brew install zsh-autosuggestions
-> brew install zsh-syntax-highlighting
-> 여기서 원하면 p10k도 설치해두자 (선호)
-> 여기서 원하면 logo-ls도 설치해두자 (선호)
+> - brew install zsh-autosuggestions
+> - brew install zsh-syntax-highlighting
+> - 여기서 원하면 p10k도 설치해두자 (선호)
+> - 여기서 원하면 logo-ls도 설치해두자 (선호)
 
 ## 5. brew를 chrome 설치
 > brew install --cask google-chrome
